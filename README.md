@@ -1,4 +1,4 @@
-👋 Hi, My name ia Monica Magxwalisa from Saldanha Bay.
+👋 Hi, My name is Monica Magxwalisa from Saldanha Bay, but you can call Mo.
 
 🌱 I’m currently learning software development at Codespace academy.
 
