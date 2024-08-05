@@ -1,6 +1,6 @@
 👋 Hi, My name is Monica Magxwalisa from Saldanha Bay, but you can call Mo.
 
-🌱 I’m currently learning software development at Codespace academy.
+🌱 I’m currently learning software development at Codespace academy, stressful but fun.
 
 👀 I’m interested in using technology to promote environmental sustainability, 
       I want to use my skills for environmental data analysis and 
