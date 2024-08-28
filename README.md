@@ -1,13 +1,13 @@
 
 <h1 align="center">👋 Hi, My name is Monica Magxwalisa </h1>
-<h3 align="center">🌱 I’m currently learning software development at Codespace academy, stressful but fun.
+<h2 align="center">🌱 I’m currently learning software development at Codespace academy, stressful but fun.
 👀 I’m interested in using technology to promote environmental sustainability, 
       I want to use my skills for environmental data analysis and also learn how to build applications that help track and reduce carbon footprints.
 💞️ I’m looking to collaborate on projects that leverage software to solve environmental challenges,such as apps for recycling, conservation, and renewable energy promotion.      
 📫 How to reach me: You can reach me via email at monmagx@gmail.com or connect with me on LinkedIn or Facebook .
 😄 Pronouns: please address me by She/Her.
 ⚡ Fun fact: I love nature walks and often participate in community clean-up events to help keep natural spaces pristine, 
-        with technology this would be so much fun</h3>
+        with technology this would be so much fun</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monicamagxwalisa&label=Profile%20views&color=0e75b6&style=flat" alt="monicamagxwalisa" /> </p>
 
@@ -38,4 +38,4 @@
 <a href="https://discord.gg/monicamagxwalisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="monicamagxwalisa" height="30" width="40" /></a>
 </p>
 
-  <p>....future green coder....</p>
+  <h4 align= "centre">....future green coder....</h4>
